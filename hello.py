@@ -1,1 +1,1 @@
-print('Branch protected test')
+print(hello)
