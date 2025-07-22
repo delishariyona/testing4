@@ -1,0 +1,1 @@
+print('Branch protected test')
